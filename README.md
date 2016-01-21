@@ -1,5 +1,7 @@
 #How to Play: #
-You can move around using WASD and look around using mouse. Press 'B' to bring up the Build option. Press 'F' to place the building in real world. Try first to make a lumbercamp, stonemasionry and blacksmith hammer respectively. This way then your town will flourish. After that do as you wish. Remember once you select a building to build do place it other wise the temp building will remain in the game world. Also try to push the AIs around if they get stuck. Will fix the AI path later. Left mouse button shots fireball which does nothing right now. Holding down 'Left Shift' button will make you run though keep an eye out for stamina. Once the stamina is finished you won't be able to run again unless it replenishes again. 
+You can move around using WASD and look around using mouse. Press 'B' to bring up the Build option. Press 'F' to place the building in real world. Try first to make a lumbercamp, stonemasionry and blacksmith hammer respectively. This way then your town will flourish. After that do as you wish. Remember once you select a building to build do place it other wise the temp building will remain in the game world. Also try to push the AIs around if they get stuck. Will fix the AI path later. Left mouse button shots fireball which does nothing right now. Holding down 'Left Shift' button will make you run though keep an eye out for stamina. Once the stamina is finished you won't be able to run again unless it replenishes again.
+
+Press 'E' near the Citizens or Placed Building to get their stats.
 
 Hope you enjoy :)
 
