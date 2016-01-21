@@ -40,16 +40,41 @@ K Out!
 Latest starts from here.
 30. Citizen path finding or obstacle detection.
 31. Add more mats.
-32. Citizen generation.
+32. Citizen generation. -DONE
 33. More texture for terrain.
 34. Storage. -DONE
 35. Mats required for buildings. -DONE
 36. Engineers. -DONE
 37. Mat transfer. -DONE.
-38. Production requires mat too.
+38. Production requires mat too. -DONE
 39. Transferring mats from buildings to storage. -DONE
 40. Don't go to building which is filled up or when someone else is going. -DONE
 41. Eliminate Blacksmith and make different type of buildings for each items. -DONE
-42. Keep produce records in buildings.
+42. Keep produce records in buildings. -DONE
 43. Creating walls.
 44. World Prefabs, stores all the prefabs needed by the citizens.
+45. Remove transport AI and make other AI do the their individual transporting. -DONE
+46. Keep storage mats record in Storage.
+47. Separate Gatherer AI. -DONE
+48. Enable/Disable a building. -DONE
+49. Can rotate the temp building. -DONE
+50. Fix scaling issue.
+51. House for generating citizens. -DONE
+52. Move to the first free spot job building, not visit all.
+53. Grow produce like wheat, trees etc. -DONE
+54. Citizens get hungry. -DONE
+55. Citizens get tired. -DONE
+56. Citizens needs food, sleep, entertainments etc. -DONE
+57. Citizen works require energy. -DONE
+58. Make wheat farm. -DONE
+59. Make bakery. -DONE
+60. Fix energy replenishment, make sure the ones inside buildings can get out. -DONE
+61. Show Citizen stats. -DONE
+62. Delete option for buildings.
+63. Delete option for placed buildings.
+64. Delete option for citizens.
+65. Bakery work smoke simulation.
+66. Show placed building stats. -DONE
+67. Engineer jumps to entrance once building is done makeing. -DONE
+68. Can give speed buff to Citizen.
+69. Show tooltip for buildings in build menu.
