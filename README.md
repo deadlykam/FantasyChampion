@@ -51,7 +51,7 @@ Latest starts from here.
 40. Don't go to building which is filled up or when someone else is going. -DONE
 41. Eliminate Blacksmith and make different type of buildings for each items. -DONE
 42. Keep produce records in buildings. -DONE
-43. Creating walls.
+43. Creating walls. -DONE
 44. World Prefabs, stores all the prefabs needed by the citizens.
 45. Remove transport AI and make other AI do the their individual transporting. -DONE
 46. Keep storage mats record in Storage.
@@ -60,7 +60,7 @@ Latest starts from here.
 49. Can rotate the temp building. -DONE
 50. Fix scaling issue.
 51. House for generating citizens. -DONE
-52. Move to the first free spot job building, not visit all.
+52. Move to the first free spot job building, not visit all. -DONE
 53. Grow produce like wheat, trees etc. -DONE
 54. Citizens get hungry. -DONE
 55. Citizens get tired. -DONE
@@ -78,3 +78,16 @@ Latest starts from here.
 67. Engineer jumps to entrance once building is done makeing. -DONE
 68. Can give speed buff to Citizen.
 69. Show tooltip for buildings in build menu.
+70. Can make citizens follow Player when needed.
+71. Putting food in granary.
+72. Detecting material improvement.
+73. Work building destroyed results in the citizen being free.
+74. Gates.-DONE
+75. Make citizens find next job.
+76. Bigger walls cost more mats.
+77. Walls snapping to each other. -DONE
+78. Delete placed buildings.
+79. Roads.
+80. Connecting walls to each other. -DONE
+81. Connecting walls to gate. -DONE
+82. Gate opening for player and citizen. -DONE
