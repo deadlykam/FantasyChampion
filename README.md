@@ -1,5 +1,5 @@
 #How to Play: #
-You can move around using WASD and look around using mouse. Press 'B' to bring up the Build option. Press 'F' to place the building in real world. Try first to make a lumbercamp and stonemasionry. This way then your town will flourish. After that do as you wish. Remember once you select a building to build you can cancel it by pressing 'B' again. Also try to push the AIs around if they get stuck. Will fix the AI path later. Holding down 'Left Shift' button will make you run though keep an eye out for stamina. Once the stamina is finished you won't be able to run again unless it replenishes again. Press 'E' near the Citizens or Placed Building to get their stats.
+You can move around using WASD and look around using mouse. Press 'B' to bring up the Build option. Press 'F' to place the building in real world. Try first to make a lumbercamp and stonemasionry. This way then your town will flourish. Also make sure you add roads near the buildings and make sure they are connected. Otherwise citizen won't be able to move around. After that do as you wish. Remember once you select a building to build you can cancel it by pressing 'B' again. Also try to push the AIs around if they get stuck. Holding down 'Left Shift' button will make you run though keep an eye out for stamina. Once the stamina is finished you won't be able to run again unless it replenishes again. Press 'E' near the Citizens or Placed Building to get their stats.
 
 Hope you enjoy :)
 
@@ -91,4 +91,7 @@ Latest starts from here.
 80. Connecting walls to each other. -DONE
 81. Connecting walls to gate. -DONE
 82. Gate opening for player and citizen. -DONE
-83. Shortest path.
+83. Shortest path (A* Algorithm). -DONE
+84. Self building prefabs.
+85. Fix wall movement problem. -DONE
+86. Walls build itself.
