@@ -38,7 +38,7 @@ K Out!
 29. Generating Enemies.
 
 Latest starts from here.
-30. Citizen path finding or obstacle detection.
+30. Citizen path finding or obstacle detection. -DONE
 31. Add more mats.
 32. Citizen generation. -DONE
 33. More texture for terrain.
@@ -95,3 +95,22 @@ Latest starts from here.
 84. Self building prefabs.
 85. Fix wall movement problem. -DONE
 86. Walls build itself.
+87. Fix the road ground z axis problem. -DONE
+88. Fix the straight path to material after eatting, resting and dropping mats. -DONE
+89. Find the closest target building within range. -DONE
+90. Fix the straight path issue after hungry or tired. -DONE
+91. Find the closest job within range. -DONE
+92. Fix the straight path issus after returning mats. -DONE
+93. Some AI weapon pick up is missing, fix this. -DONE
+94. Fix all the Entrance move. -DONE
+95. Make AI go through all the nodes. -DONE
+96. Make Entrance the last node.
+97. Make gatherers move in straight line to the work building after taking mats. -DONE
+98. Make raycast to see building info and citizen info.
+99. Make engineer search for food from house as well. -DONE
+100. Transporter which transports produce from storage to storage. -DONE
+101. Show citizen job description. -DONE
+102. Make transport building model. -DONE
+103. Make university building model. -DONE
+104. Can create more Engineers and Transporters. -DONE
+105. Building which makes Bagpack. -DONE
