@@ -41,7 +41,7 @@ Latest starts from here.
 30. Citizen path finding or obstacle detection. -DONE
 31. Add more mats.
 32. Citizen generation. -DONE
-33. More texture for terrain.
+33. More texture for terrain. -DONE
 34. Storage. -DONE
 35. Mats required for buildings. -DONE
 36. Engineers. -DONE
@@ -80,7 +80,7 @@ Latest starts from here.
 69. Show tooltip for buildings in build menu.
 70. Can make citizens follow Player when needed.
 71. Putting food in granary.
-72. Detecting material improvement.
+72. Detecting material improvement. -DONE
 73. Work building destroyed results in the citizen being free.
 74. Gates.-DONE
 75. Make citizens find next job.
@@ -114,3 +114,17 @@ Latest starts from here.
 103. Make university building model. -DONE
 104. Can create more Engineers and Transporters. -DONE
 105. Building which makes Bagpack. -DONE
+106. Add fog.
+107. Top view of the game.
+108. Fog of war.
+109. Road texturing and stretch issue. -DONE
+110. Walls texturing and stretch issue. -DONE
+111. AI choosing the nearest Road_Detector when the ends are too far. -DONE
+112. Make the hit point with the road the last node and not the actual last node.
+113. New gate, lumbercamp and stonemasionry model. -DONE
+114. Starting events.
+115. Iron material. -DONE
+116. Iron mining. -DONE
+117. New wood and stone model. -DONE
+118. Change the size of the weapon models.
+119. Show which side is entrance. -DONE.
